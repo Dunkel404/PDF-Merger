@@ -1,5 +1,4 @@
-﻿using PDFManager;
-using PdfSharp;
+﻿using PdfSharp;
 using PdfSharp.Drawing;
 using PdfSharp.Fonts;
 using PdfSharp.Pdf;
